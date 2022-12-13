@@ -1,2 +1,3 @@
 Today, the learned topics were
 Is a Versions Control System
+Como ignorar archivos para no ser comprometidos en el area de trabajo
